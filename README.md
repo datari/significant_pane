@@ -30,6 +30,9 @@ No. Everything on the Internet is not safe. Use it for your own risk.
 
 # Tweaks
 
+You can just copy&paste the lines from the script in Chrome console. But you loose the widget on browser restart.
+
+
 To display under watch list, change to:
 ----
 ```
