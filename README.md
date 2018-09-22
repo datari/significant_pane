@@ -1,8 +1,7 @@
 # What's this?
 It is a Userscript run by Tampermonkey extension to display SignificantTrades on your TradingView pane.
 
-![Image]
-(https://i.gyazo.com/b36275c5f5f582fd668535a254076ce1.png)
+![Image demo](https://i.gyazo.com/b36275c5f5f582fd668535a254076ce1.png)
 
 
 # Install
