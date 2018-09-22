@@ -12,7 +12,7 @@ It adds an iframe with https://tucsky.github.io/SignificantTrades/ via Tampermon
 
 # What is Tampermonkey ?
 
-Tampermonkey (formely Greasemonkey) is an extension allowing you to run custom scripts on web pages (you can choose which ones are allowed).
+[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en), (formely Greasemonkey) is an extension allowing you to run custom scripts on web pages (you can choose which ones are allowed).
 
 # Is it safe?
 
