@@ -7,8 +7,7 @@ It is SignificantTrades on your TradingView pane CTTV-style.
 
 # How it works?
 
-It adds an iframe with https://tucsky.github.io/SignificantTrades/ via Tampermonkey userscript.
-
+It adds an iframe with https://tucsky.github.io/SignificantTrades/ to your TV sidebar.
 
 # What is Tampermonkey ?
 
