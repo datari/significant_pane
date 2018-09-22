@@ -31,6 +31,7 @@ No. Everything on the Internet is not safe. Use it for your own risk.
 # Tweaks
 
 To display under watch list, change to:
+----
 ```
 $container =  document.getElementsByClassName("widgetbar-widget-watchlist")[0].parentNode;
 w = widgets[0];
@@ -40,3 +41,18 @@ $container.appendChild($iframe)
 ```
 
 ![Image watchlist](https://i.gyazo.com/5d5aaa6f74b999598cb79f23f0023fc5.png)
+
+
+To display in BitFinex (instead of balances for ex.)
+----
+```
+var $container_bfx = document.getElementById("balances-sidebar");
+if ($container_bfx) {
+    $container_bfx.innerHTML = "";
+
+    $container_bfx.appendChild($iframe);
+    $iframe.setAttribute("height", "480px");
+}
+```
+
+![Image finex](https://i.gyazo.com/85d66f5323ddecf7ca9fe09dbc2d68fd.png)
