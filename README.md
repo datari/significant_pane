@@ -2,7 +2,7 @@
 
 It is SignificantTrades on your TradingView pane CTTV-style. 
 
-![Image demo](https://i.gyazo.com/b36275c5f5f582fd668535a254076ce1.png)
+![Image demo](https://i.gyazo.com/7e6e8b1ee4b418a73a36cf3b1dfea794.png)
 
 
 # How it works?
