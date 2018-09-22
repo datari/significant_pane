@@ -17,7 +17,7 @@
           $iframe.setAttribute("width", "100%");
           $iframe.setAttribute("height", "70%");  // or 100% for full height
           $iframe.setAttribute("frameBorder", "0");
-          $iframe.setAttribute("scroll", "0");
+          $iframe.setAttribute("scrolling", "no");
 
           //get the news widget
           var widgets = document.getElementsByClassName("widgetbar-widget");
