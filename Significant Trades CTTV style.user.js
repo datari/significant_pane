@@ -15,10 +15,22 @@
       var $iframe = document.createElement('iframe');
           $iframe.src = "https://tucsky.github.io/SignificantTrades/";
           $iframe.setAttribute("width", "100%");
-          $iframe.setAttribute("height", "100%");
-          $iframe.setAttribute("border", "10px");
+          $iframe.setAttribute("height", "70%");  // or 100% for full height
+          $iframe.setAttribute("frameBorder", "0");
+          $iframe.setAttribute("scroll", "0");
+
+          //get the news widget
+          var widgets = document.getElementsByClassName("widgetbar-widget");
+          var newsWidget = widgets[2];
+
+          // sidebar container
           var $container = document.getElementsByClassName("widgetbar-widget-watchlist")[0].parentNode;
           $container.innerHTML = "";
+
+          // add significant trades
           $container.appendChild($iframe);
+
+          // add the news widget back
+          $container.appendChild(newsWidget);
     }, 5000);
 })();
