@@ -1,9 +1,22 @@
 # What's this?
 
-It is SignificantTrades on your TradingView pane CTTV-style.
+It is SignificantTrades on your TradingView pane CTTV-style. 
 
 ![Image demo](https://i.gyazo.com/b36275c5f5f582fd668535a254076ce1.png)
 
+
+# How it works?
+
+It adds an iframe with https://tucsky.github.io/SignificantTrades/ via Tampermonkey userscript.
+
+
+# What is Tampermonkey ?
+
+Tampermonkey (formely Greasemonkey) is an extension allowing you to run custom scripts on web pages (you can choose which ones are allowed).
+
+# Is it safe?
+
+No. Everything on the Internet is not safe. Use it for your own risk. 
 
 # Install
 
