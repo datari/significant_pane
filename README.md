@@ -12,4 +12,4 @@ It is a Userscript run by Tampermonkey extension to display SignificantTrades on
 
 3. Make sure it's visible on all charts in your settings. 
 
-![Image settings]((https://i.gyazo.com/651037a049ef4274a5f0ebd015083540.png)
+![Image settings](https://i.gyazo.com/651037a049ef4274a5f0ebd015083540.png)
