@@ -5,10 +5,11 @@ It is a Userscript run by Tampermonkey extension to display SignificantTrades on
 
 
 # Install
-Install Tampermonkey extension (former Greasemonkey)
 
-Create a new script add this contents.
+1. Install Tampermonkey extension (former Greasemonkey)
 
-Make sure it's visible on all charts in your settings. 
+2. Create a new script and copy the contents there.
 
-(https://i.gyazo.com/651037a049ef4274a5f0ebd015083540.png)
+3. Make sure it's visible on all charts in your settings. 
+
+![Image settings]((https://i.gyazo.com/651037a049ef4274a5f0ebd015083540.png)
