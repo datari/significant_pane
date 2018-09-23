@@ -27,6 +27,9 @@ No. Everything on the Internet is not safe. Use it for your own risk.
 
 ![Image settings](https://i.gyazo.com/651037a049ef4274a5f0ebd015083540.png)
 
+And enabled in Tampermonkey
+
+![Image tm](https://i.gyazo.com/84db161e325f53324b4f2d42a3bd4970.png)
 
 # Tweaks
 
