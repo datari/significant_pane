@@ -37,7 +37,7 @@ To display under watch list, change to:
 ----
 ```
 $container =  document.getElementsByClassName("widgetbar-widget-watchlist")[0].parentNode;
-w = widgets[0];
+var w = widgets[0];
 $container.innerHTML='';
 $container.appendChild(w)
 $container.appendChild($iframe)
